@@ -6,5 +6,10 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/812584380303147028.png" />
 </p>
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/812584380303147028.png" />
+</p>
+
 - ### Github Stats
 ![Metrics](https://metrics.lecoq.io/Solastis?template=classic&config.timezone=Europe%2FBerlin)
+
