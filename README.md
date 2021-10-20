@@ -7,7 +7,11 @@
 - Java 
 - C#
 - Little bit of C++
-
+- 
+- ## Projects that I working on
+- Azura
+- Ree6 (Support Dev)
+- UnityModLibrary
 
 - ## Github Stats
 ![Metrics](https://metrics.lecoq.io/Solastis?template=classic&config.timezone=Europe%2FBerlin)
