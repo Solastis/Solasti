@@ -7,7 +7,7 @@
 - Java 
 - C#
 - Little bit of C++
-- 
+
 - ## Projects that I working on
 - Azura
 - Ree6 (Support Dev)
