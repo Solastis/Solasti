@@ -8,7 +8,7 @@
 - C#
 - Little bit of C++
 
-- ## Projects that I am working on
+- ## Projects that I'm working on
 - Azura
 - Ree6 (Support Dev)
 - UnityModLibrary
