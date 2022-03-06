@@ -6,7 +6,8 @@
 - ## 🌐 Languages
 - Java 
 - C#
-- Little bit of C++
+- C++
+- Web (HTML, CSS, JS) 
 
 - ## 🔭 Projects that I'm working on
 - Azura
