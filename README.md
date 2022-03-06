@@ -1,18 +1,19 @@
 - 👋 Hi, I’m @Solastis
 - 👀 I’m interested in Java development
-- 🌱 I’m currently learning C++ and C#
 - 📫 How to reach me Solastis#1012
 
-- ## Languages that I know 
+- ## 🌐 Languages
 - Java 
 - C#
 - Little bit of C++
 
-- ## Projects that I'm working on
+- ## 🔭 Projects that I'm working on
 - Azura
-- Ree6 (Support Dev)
-- UnityModLibrary
+- Ketamine
+- Strife
+- Vertex
+- Ree6
+
 
 - ## Github Stats
 ![Metrics](https://metrics.lecoq.io/Solastis?template=classic&config.timezone=Europe%2FBerlin)
-
