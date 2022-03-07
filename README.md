@@ -1,5 +1,4 @@
 - ## 👋 Hi, I’m Solastis
-- 👀 I’m interested in Java development
 - 📫 How to reach me Solastis#1012
 
 
