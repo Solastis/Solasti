@@ -10,9 +10,9 @@
 
 - ## 🔭 Projects that I'm working on
 - Azura
+- Vertex
 - Ketamine
 - Strife
-- Vertex
 - Ree6
 
 
