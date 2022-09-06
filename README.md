@@ -18,3 +18,4 @@
 
 - ## Github Stats
 ![Metrics](https://metrics.lecoq.io/Solastis?template=classic&config.timezone=Europe%2FBerlin)
+![Solastis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Solastis&show_icons=true&theme=radical)
