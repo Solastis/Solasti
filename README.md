@@ -7,12 +7,12 @@
 - C#
 - C++
 - Web (HTML, CSS, JS) 
+- Learning Rust
 
 - ## 🔭 Projects that I'm working on
 - Azura
+- Moropheles
 - Vertex
-- Ketamine
-- Strife
 - Ree6
 
 
