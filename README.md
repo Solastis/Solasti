@@ -1,6 +1,6 @@
 - ## 👋 Hi, I’m Solastis
 - 📫 How to reach me Solastis#1012
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Solastis&label=Views&color=blue&style=plastic" alt="Solastis" /> </p>
 
 - ## 🌐 Languages
 - Java 
