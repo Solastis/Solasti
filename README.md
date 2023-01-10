@@ -3,17 +3,13 @@
 
 - ## 🌐 Languages
 - Java 
-- C#
-- C++
+- Rust
+- C/C++
 - Web (HTML, CSS, JS) 
-- Learning Rust
 
 - ## 🔭 Projects that I'm working on
 - Azura
-- Moropheles
-- Vertex
-- Ree6
-
+- vyra 
 
 - ## Github Stats
 ![Metrics](https://metrics.lecoq.io/Solastis?template=classic&config.timezone=Europe%2FBerlin)
