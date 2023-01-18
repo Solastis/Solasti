@@ -9,7 +9,7 @@
 
 - ## 🔭 Projects that I'm working on
 - Azura
-- vyra 
+- Vyra 
 
 - ## Github Stats
 ![Metrics](https://metrics.lecoq.io/Solastis?template=classic&config.timezone=Europe%2FBerlin)
