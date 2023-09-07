@@ -4,7 +4,8 @@
 - Java 
 - Rust
 - C/C++
-- Web (HTML, CSS, JS) 
+- Web (HTML, CSS, JS)
+- PHP
 
 - ## 🔭 Projects that I'm working on
 - Azura
